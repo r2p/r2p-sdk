@@ -13,3 +13,12 @@
 [submodule "packages"]
 	path = packages
 	url = https://github.com/r2p/packages.git
+[submodule "core/RTCAN"]
+	path = core/RTCAN
+	url = https://github.com/r2p/RTCAN.git
+[submodule "core/Middleware"]
+	path = core/Middleware
+	url = https://github.com/r2p/Middleware.git
+[submodule "core/ChibiOS"]
+	path = core/ChibiOS
+	url = https://github.com/r2p/ChibiOS.git

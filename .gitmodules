@@ -1,0 +1,12 @@
+[submodule "modules/IMU_module"]
+	path = modules/IMU_module
+	url = https://github.com/r2p/IMU_module.git
+[submodule "modules/IO_module"]
+	path = modules/IO_module
+	url = https://github.com/r2p/IO_module.git
+[submodule "modules/uDC_module"]
+	path = modules/uDC_module
+	url = https://github.com/r2p/uDC_module.git
+[submodule "modules/USB_module"]
+	path = modules/USB_module
+	url = https://github.com/r2p/USB_module.git

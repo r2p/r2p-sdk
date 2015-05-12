@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=R2P IDE
+Comment=R2P Development Environment
+Categories=Development;
+Type=Application
+Terminal=false
+Icon=/opt/r2p/doc/media/R2P_256px.png
+Exec=/opt/r2p/r2p-ide.sh

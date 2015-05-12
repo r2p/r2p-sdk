@@ -10,3 +10,6 @@
 [submodule "modules/USB_module"]
 	path = modules/USB_module
 	url = https://github.com/r2p/USB_module.git
+[submodule "packages"]
+	path = packages
+	url = https://github.com/r2p/packages.git

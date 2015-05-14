@@ -8,6 +8,10 @@
     git submodule init
     git submodule update
 
+### Download the toolchain
+    wget ftp.elet.polimi.it/users/Martino.Migliavacca/r2p/tools-linux-x86.tar.gz
+    tar zxf tools-linux-x86.tar.gz
+    
 ### Setup a demo workspace
     git clone https://github.com/r2p/workspace-demo.git workspace
 

@@ -27,4 +27,4 @@ Windows users have to download the toolchain from [here](http://ftp.elet.polimi.
 ### Add support for 32bit executables on 64 bit machines
 
     sudo dpkg --add-architecture i386
-    sudo apt-get install libc:i386 libncurses5:i386
+    sudo apt-get install libc6:i386 libncurses5:i386

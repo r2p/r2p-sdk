@@ -23,3 +23,8 @@ Windows users have to download the toolchain from [here](http://ftp.elet.polimi.
 
 ### Launch the Eclipse-based IDE
     ./r2p-ide.sh
+    
+### Add support for 32bit executables on 64 bit machines
+
+    sudo dpkg --add-architecture i386
+    sudo apt-get install libc:i386 libncurses5:i386

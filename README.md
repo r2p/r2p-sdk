@@ -14,7 +14,7 @@ Linux users can execute the following commands
     wget ftp.elet.polimi.it/users/Martino.Migliavacca/r2p/tools-linux-x86.tar.gz
     tar zxf tools-linux-x86.tar.gz
     
-Windows users have to download the toolchain from [here](http://ftp.elet.polimi.it/users/Martino.Migliavacca/r2p/tools-windows-32bit.zip), and manually uncompress the content into the `r2p-sdk` directory (the result should be `r2p-sdk/tools/...`).
+Windows users have to download the toolchain from [here](ftp://ftp.elet.polimi.it/users/Martino.Migliavacca/r2p/tools-windows-32bit.zip), and manually uncompress the content into the `r2p-sdk` directory (the result should be `r2p-sdk/tools/...`).
 
 ### Setup a demo workspace
     git clone https://github.com/r2p/workspace-demo.git workspace-demo

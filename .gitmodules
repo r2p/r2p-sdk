@@ -21,4 +21,4 @@
 	url = https://github.com/r2p/Middleware.git
 [submodule "core/ChibiOS"]
 	path = core/ChibiOS
-	url = https://github.com/r2p/ChibiOS.git
+	url = https://github.com/ChibiOS/ChibiOS.git

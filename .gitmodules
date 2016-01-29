@@ -22,3 +22,6 @@
 [submodule "core/ChibiOS"]
 	path = core/ChibiOS
 	url = https://github.com/ChibiOS/ChibiOS.git
+[submodule "modules/Proximity_module"]
+	path = modules/Proximity_module
+	url = https://github.com/r2p/Proximity_module.git
